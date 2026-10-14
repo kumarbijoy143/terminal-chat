@@ -1,0 +1,24 @@
+:root {
+  /* WhatsApp Dark Theme Palette */
+  --bg-primary: #0b141a;
+  --bg-secondary: #111b21;
+  --bg-tertiary: #202c33;
+  --bg-input: #2a3942;
+  
+  --bubble-out: #005c4b;
+  --bubble-in: #202c33;
+  --bubble-text: #e9edef;
+  --bubble-meta: #8696a0;
+
+  --accent-stealth: #00a884;
+  --accent-stealth-glow: rgba(0, 168, 132, 0.25);
+  --danger-burn: #ef4444;
+
+  --border-subtle: #222d34;
+  --text-primary: #e9edef;
+  --text-muted: #8696a0;
+
+  /* Sizing Defaults (Overridden dynamically by Settings) */
+  --base-chat-font: 15px;
+  --emoji-large-font: 44px;
+}
