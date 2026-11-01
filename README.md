@@ -1,1 +1,1 @@
-# terminal-chat
+This is the main link from the app and it redirects to working terminal 
